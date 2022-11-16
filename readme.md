@@ -2,7 +2,7 @@
 
 ## The Definitive Guide to Dimensional Modeling
 
-### To do: read
+### To do:
 - [ ] [_Introduction](./pdf/_Introduction.pdf)
 - [ ] [chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer](./pdf/chapter%201%20-%20Data%20Warehousing%2C%20Business%20Intelligence%2C%20and%20Dimensional%20Modeling%20Primer.pdf)
 - [ ] [chapter 2 - Kimball Dimensional Modeling Techniques Overview](./pdf/chapter%202%20-%20Kimball%20Dimensional%20Modeling%20Techniques%20Overview.pdf)
