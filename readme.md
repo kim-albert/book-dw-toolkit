@@ -1,4 +1,8 @@
-# Reading Progress
+# The Data Warehouse Toolkit (Ralph Kimball)
+
+## The Definitive Guide to Dimensional Modeling
+
+### To do: read
 - [ ] _Introduction
 - [ ] chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
 - [ ] chapter 2 - Kimball Dimensional Modeling Techniques Overview
