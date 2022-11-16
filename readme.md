@@ -3,25 +3,25 @@
 ## The Definitive Guide to Dimensional Modeling
 
 ### To do: read
-- [ ] _Introduction
-- [ ] chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
-- [ ] chapter 2 - Kimball Dimensional Modeling Techniques Overview
-- [ ] chapter 3 - Retail Sales
-- [ ] chapter 4 - Inventory
-- [ ] chapter 5 - Procurement
-- [ ] chapter 6 - Order Management
-- [ ] chapter 7 - Accounting
-- [ ] chapter 8 - Customer Relationship Management
-- [ ] chapter 9 - Human Resources Management
-- [ ] chapter 10 - Financial Services
-- [ ] chapter 11 - Telecommunications
-- [ ] chapter 12 - Transportation
-- [ ] chapter 13 - Education
-- [ ] chapter 14 - Healthcare
-- [ ] chapter 15 - Electronic Commerce
-- [ ] chapter 16 - Insurance
-- [ ] chapter 17 - Kimball DWBI Lifecycle Overview
-- [ ] chapter 18 - Dimensional Modeling Process and Tasks
-- [ ] chapter 19 - ETL Subsystems and Techniques
-- [ ] chapter 20 - ETL System Design and Development Process and Tasks
-- [ ] chapter 21 - Big Data Analytics
+- [ ] [_Introduction](./pdf/_Introduction.pdf)
+- [ ] [chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer](./pdf/chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer.pdf)
+- [ ] [chapter 2 - Kimball Dimensional Modeling Techniques Overview](./pdf/chapter 2 - Kimball Dimensional Modeling Techniques Overview.pdf)
+- [ ] [chapter 3 - Retail Sales](./pdf/chapter 3 - Retail Sales.pdf)
+- [ ] [chapter 4 - Inventory](./pdf/chapter 4 - Inventory.pdf)
+- [ ] [chapter 5 - Procurement](./pdf/chapter 5 - Procurement.pdf)
+- [ ] [chapter 6 - Order Management](./pdf/chapter 6 - Order Management.pdf)
+- [ ] [chapter 7 - Accounting](./pdf/chapter 7 - Accounting.pdf)
+- [ ] [chapter 8 - Customer Relationship Management](./pdf/chapter 8 - Customer Relationship Management.pdf)
+- [ ] [chapter 9 - Human Resources Management](./pdf/chapter 9 - Human Resources Management.pdf)
+- [ ] [chapter 10 - Financial Services](./pdf/chapter 10 - Financial Services.pdf)
+- [ ] [chapter 11 - Telecommunications](./pdf/chapter 11 - Telecommunications.pdf)
+- [ ] [chapter 12 - Transportation](./pdf/chapter 12 - Transportation.pdf)
+- [ ] [chapter 13 - Education](./pdf/chapter 13 - Education.pdf)
+- [ ] [chapter 14 - Healthcare](./pdf/chapter 14 - Healthcare.pdf)
+- [ ] [chapter 15 - Electronic Commerce](./pdf/chapter 15 - Electronic Commerce.pdf)
+- [ ] [chapter 16 - Insurance](./pdf/chapter 16 - Insurance.pdf)
+- [ ] [chapter 17 - Kimball DWBI Lifecycle Overview](./pdf/chapter 17 - Kimball DWBI Lifecycle Overview.pdf)
+- [ ] [chapter 18 - Dimensional Modeling Process and Tasks](./pdf/chapter 18 - Dimensional Modeling Process and Tasks.pdf)
+- [ ] [chapter 19 - ETL Subsystems and Techniques](./pdf/chapter 19 - ETL Subsystems and Techniques.pdf)
+- [ ] [chapter 20 - ETL System Design and Development Process and Tasks](./pdf/chapter 20 - ETL System Design and Development Process and Tasks.pdf)
+- [ ] [chapter 21 - Big Data Analytics](./pdf/chapter 21 - Big Data Analytics.pdf)
