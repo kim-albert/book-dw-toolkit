@@ -1,4 +1,4 @@
-# The Data Warehouse Toolkit (Ralph Kimball)
+# The Data Warehouse Toolkit - 3rd Edition (Ralph Kimball)
 
 ## The Definitive Guide to Dimensional Modeling
 
