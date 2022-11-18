@@ -22,6 +22,7 @@
 - [ ] [chapter 14 - Healthcare](./pdf/chapter%2014%20-%20Healthcare.pdf)
 - [ ] [chapter 15 - Electronic Commerce](./pdf/chapter%2015%20-%20Electronic%20Commerce.pdf)
 - [ ] [chapter 16 - Insurance](./pdf/chapter%2016%20-%20Insurance.pdf)
+---
 - [ ] [chapter 17 - Kimball DWBI Lifecycle Overview](./pdf/chapter%2017%20-%20Kimball%20DWBI%20Lifecycle%20Overview.pdf)
 - [ ] [chapter 18 - Dimensional Modeling Process and Tasks](./pdf/chapter%2018%20-%20Dimensional%20Modeling%20Process%20and%20Tasks.pdf)
 - [ ] [chapter 19 - ETL Subsystems and Techniques](./pdf/chapter%2019%20-%20ETL%20Subsystems%20and%20Techniques.pdf)
