@@ -6,7 +6,7 @@
 ![progress](https://progress-bar.dev/4)
 
 - [X] [_Introduction](./pdf/_Introduction.pdf)
-- [ ] [chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer](./pdf/chapter%201%20-%20Data%20Warehousing%2C%20Business%20Intelligence%2C%20and%20Dimensional%20Modeling%20Primer.pdf)
+- [X] [chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer](./pdf/chapter%201%20-%20Data%20Warehousing%2C%20Business%20Intelligence%2C%20and%20Dimensional%20Modeling%20Primer.pdf)
 - [ ] [chapter 2 - Kimball Dimensional Modeling Techniques Overview](./pdf/chapter%202%20-%20Kimball%20Dimensional%20Modeling%20Techniques%20Overview.pdf)
 - [ ] [chapter 3 - Retail Sales](./pdf/chapter%203%20-%20Retail%20Sales.pdf)
 - [ ] [chapter 4 - Inventory](./pdf/chapter%204%20-%20Inventory.pdf)
