@@ -3,7 +3,7 @@
 ## The Definitive Guide to Dimensional Modeling
 
 ### To do:
-![progress](https://progress-bar.dev/4)
+![progress](https://progress-bar.dev/9)
 
 - [X] [_Introduction](./pdf/_Introduction.pdf)
 - [X] [chapter 1 - Data Warehousing, Business Intelligence, and Dimensional Modeling Primer](./pdf/chapter%201%20-%20Data%20Warehousing%2C%20Business%20Intelligence%2C%20and%20Dimensional%20Modeling%20Primer.pdf)
